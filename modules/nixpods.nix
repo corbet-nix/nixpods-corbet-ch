@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/nixpods.nix
 #
 # THE WIRING, and everything about it that is TRUE ON EVERY PLANE. Every other module in this

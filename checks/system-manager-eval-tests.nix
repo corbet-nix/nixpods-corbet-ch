@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/system-manager-eval-tests.nix
 #
 # THE CLAIM UNDER TEST: a container declared once renders on the system-manager plane too, with

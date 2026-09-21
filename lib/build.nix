@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # lib/build.nix
 #
 # THE MECHANISM. Everything else in this repo is policy wrapped around this one function.

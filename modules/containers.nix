@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/containers.nix
 #
 # `nixpods.containers.<name>` -- the main policy-bearing surface of this repo. Every option here

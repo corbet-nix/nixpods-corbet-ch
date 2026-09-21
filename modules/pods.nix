@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/pods.nix
 #
 # `nixpods.pods.<name>` -- a shared network/IPC namespace multiple containers join via their own

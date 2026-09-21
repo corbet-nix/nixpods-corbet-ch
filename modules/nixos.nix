@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/nixos.nix
 #
 # The NixOS plane. `modules/nixpods.nix` next to this file already did everything that is true on

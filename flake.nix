@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 {
   description = "Podman Quadlet as a BUILD-TIME translator, never a boot-time generator -- typed Nix options for digest-pinned containers, pods, networks and volumes, rendered to real systemd units inside the Nix build sandbox and installed via systemd.packages.";
 

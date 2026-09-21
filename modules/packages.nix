@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/packages.nix
 #
 # Declarative package intent for nixpods consumers.

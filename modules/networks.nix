@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/networks.nix
 #
 # `nixpods.networks.<name>` -- a named Podman network, pre-created declaratively rather than

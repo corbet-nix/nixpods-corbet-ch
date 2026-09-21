@@ -279,7 +279,7 @@ container that needs neither.
 
 ```nix
 {
-  inputs.nixpods.url = "github:julian-corbet/nixpods-corbet-ch";
+  inputs.nixpods.url = "github:corbet-nix/nixpods-corbet-ch";
 
   outputs = { self, nixpkgs, nixpods, ... }: {
     nixosConfigurations.myhost = nixpkgs.lib.nixosSystem {
@@ -353,6 +353,6 @@ check` itself, and `checks/default.nix`'s own comment says why. Not yet done, de
 `.build`/`.image`/`.kube`/`.artifact` Quadlet kinds (see `experiments/README.md`'s open question
 003 for why, and the most likely next one to actually earn its own module).
 
-## License
+## Licence
 
-[MIT License](LICENSE) &copy; 2026 Julian Corbet
+Outbound licence is `MIT OR Apache-2.0`. See `LICENSE-MIT` and `LICENSE-APACHE`; every source file carries `SPDX-License-Identifier: MIT OR Apache-2.0`.

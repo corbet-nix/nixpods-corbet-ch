@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/system-manager.nix
 #
 # The system-manager plane: a foreign distro (Arch, Debian, Ubuntu) whose systemd this config

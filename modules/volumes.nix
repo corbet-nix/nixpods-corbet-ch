@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/volumes.nix
 #
 # `nixpods.volumes.<name>` -- a named Podman volume, pre-created declaratively rather than

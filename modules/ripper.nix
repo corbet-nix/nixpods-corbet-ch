@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/ripper.nix
 #
 # `nixpods.ripper` -- an optical-disc ripper (rix1337/docker-ripper) as an on-demand podman job

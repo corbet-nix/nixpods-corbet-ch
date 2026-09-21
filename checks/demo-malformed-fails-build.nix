@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/demo-malformed-fails-build.nix
 #
 # THE REPO'S THESIS, made buildable on purpose so it can be watched failing. Not part of

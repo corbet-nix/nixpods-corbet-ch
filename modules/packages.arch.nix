@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # system-manager backend for nixpods baseline packages.
 #
 # On Arch/CachyOS the package backend runs through nixarch's reconcile machinery: publish

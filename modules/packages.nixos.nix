@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # NixOS backend for nixpods baseline packages.
 #
 # Unlike the Arch-backed system-manager plane, nixpkgs package installation is part of the same
